@@ -1,6 +1,6 @@
 name: TABLE22PROJECTS
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26067
 typography_spectrum: 0.5427
 title: TABLE22PROJECTS
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3a5336'
     - '#4c6548'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 1
+  saturation: 0.25
   rhythmicContrast: 1
 purpose: []
