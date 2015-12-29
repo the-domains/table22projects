@@ -1,7 +1,7 @@
 name: TABLE22PROJECTS
 favicon: null
-layout_spectrum: 0.76517
-typography_spectrum: 0.67304
+layout_spectrum: 0
+typography_spectrum: 0.5427
 title: TABLE22PROJECTS
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#ffffff'
     - '#4d634a'
     - '#f66502'
-    - '#ffffff'
-    - '#93a192'
-    - '#f6f7f6'
+    - '#3a5336'
+    - '#4c6548'
   brandStrength: 0.75
   lightness: 1
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
