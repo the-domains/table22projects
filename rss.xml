@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TABLE22PROJECTS]]></title>
+        <description><![CDATA[TABLE22PROJECTS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 05:24:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT US]]></title>
+            <description><![CDATA[<article><h1>ABOUT US</h1><p>Table22Projects was started by Garen Mirzaian.  Garen started making films in 2006 with a music video project that was awarded third prize in a world wide music video contest.  Since then, he continues to make films, developing a career as a filmmaker, working in all aspects from pre-production to post.  He has produced several award winning films including Quitter, a short film he wrote, directed, and edited. Quitter had a successful festival run winning Best Narrative Short and Best Cinematography.  He has made a successful career in Cinematography, Editing, and Visual Graphics, working on major projects such as: Metrolink, Veteran Affairs, Serj Tankian, Whiz Khalifa, System of a Down, Kidz Bop, So You Think You Can Dance, Gatorade, and many more.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc124019-fb25-476d-8cd6-af96e4a4e842.jpg"></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">49c14320-0120-4c52-ae6d-7b3d9aa74218</guid>
+            <pubDate>Tue, 29 Dec 2015 05:24:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
