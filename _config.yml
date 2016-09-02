@@ -1,20 +1,4 @@
-name: TABLE22PROJECTS
-favicon: null
-layout_spectrum: 0.26067
 typography_spectrum: 0.5427
-title: TABLE22PROJECTS
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.25
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26067
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TABLE22PROJECTS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: TABLE22PROJECTS
+description: Producing Films from Pages to Screens
 purpose: []
