@@ -1,30 +1,42 @@
-layout_spectrum: 0.24844514345750213
-typography_spectrum: 0.6059584626927972
+title: TABLE22PROJECTS
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Producing Films from Pages to Screens
 color:
+  saturation: 0.103652
+  brandStrength: 0.4736199507024139
+  lightness: 1
   brandColors:
     - '#468966'
     - '#FFF0A5'
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  brandStrength: 0.4736199507024139
-  lightness: 0.491203075973317
-  saturation: 0.38838468538597226
-  rhythmicContrast: 0.6618372546508908
+  rhythmicContrast: 0.4054779
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: TABLE22PROJECTS
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: TABLE22PROJECTS
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: TABLE22PROJECTS
-description: Producing Films from Pages to Screens
-purpose: []
+typography_spectrum: 0.4387755
+layout_spectrum: 0.03598281
